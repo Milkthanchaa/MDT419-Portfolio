@@ -1,0 +1,45 @@
+body {
+    background: bisque;
+}
+h1,h2{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Arima Madurai', cursive;
+}
+img{
+    width: 15%;
+    border-radius: 50%;
+}
+.image{
+    display: flex;
+    justify-content: center;
+
+}
+.boxtext{
+    background: rgb(247, 187, 134);
+    width: 50%;
+    justify-content: center;
+    border-radius: 20px;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+ul{
+    width : 200px;
+    margin: auto;
+}
+.text{
+    color: steelblue;
+    font-family: 'Mali', cursive;
+    
+}
+hr{
+    background-color: cornflowerblue;
+    height: 30px;
+    width: auto;
+    border: none;
+}

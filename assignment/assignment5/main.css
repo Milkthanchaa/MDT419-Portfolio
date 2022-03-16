@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(238, 195, 181);
+}
+.Box{
+    background-color: aquamarine;
+    /* width: 30%; */
+    font-family: 'Mali', cursive;
+    
+}
+#Bigbox{
+    background-color: rgb(252, 148, 129);
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 100px; 
+    align-items: center;
+    
+}
+
+
+#topic1,#comment1,#comment2{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Mali', cursive;
+}
+#text1{
+    border-radius: 10%;
+    text-align: left;
+    background-color: pink;
+    width: 30%;
+    font-family: 'Mali', cursive;
+    
+}
+.Button{
+    display: flex;
+    justify-content: center;
+}
+.button1,.button2{
+    background-color: rgb(255, 255, 176);
+    border-radius: 10%;
+    color:brown;
+    margin: 4px 6px;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-style: none;
+}
+
+
+
+
+
+
+

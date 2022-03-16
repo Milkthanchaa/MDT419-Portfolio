@@ -1,0 +1,79 @@
+body{
+  background-color: #debdb2;
+}
+h1{
+  text-align:center;
+}
+ul{
+    border: 2px solid black;
+    width: auto;
+}
+h2{
+    /* margin-top: 20px;
+    margin-bottom: auto;
+    padding-left: 10px;
+    padding-right: 10px; */
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    width: 150px;
+}
+.BoxIngredients{
+  margin-top: 20px;
+  display: flex;
+  justify-content:auto;
+  /* background-color:beige; */
+}
+.ingredients{
+  /* background-color: aqua; */
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 10px;
+}
+
+.PicIngredients{
+  display: flex;
+  position: relative;
+  margin-left: 20px;
+}
+p{
+  /* margin-top: 20px;
+  margin-left: 1000px;
+  padding-left: 10px;
+  padding-right: 10px; */
+  margin: auto;
+  text-align: center ;
+  background-color: bisque;
+  font-size: 25px;
+  width: 150px;
+  /* border-bottom: 2px solid black; */
+}
+.StepBox{
+  display: flex;
+}
+.TextBox{
+  margin-top: 20px;
+  margin-left: 20px;
+  /* display: flex;
+  justify-content: auto; */
+  border: 2px double bisque;
+  border-radius: 60px;
+  /* background-color: aqua; */
+}
+.PicStep{
+  margin: auto;
+  position: relative;
+  margin-left: 20px;
+}
+.PicStep img{
+  width: 100%;
+}
+.HowtoPic{
+  text-align: center;
+
+}
+
+.AllPic{
+  margin: auto;
+  width: 500px;
+}
